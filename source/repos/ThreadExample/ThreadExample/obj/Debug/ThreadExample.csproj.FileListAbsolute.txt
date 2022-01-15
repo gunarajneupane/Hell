@@ -1,0 +1,8 @@
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csproj.AssemblyReference.cache
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\obj\Debug\ThreadExample.csproj.CoreCompileInputs.cache
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe.config
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\bin\Debug\ThreadExample.exe
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\bin\Debug\ThreadExample.pdb
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\obj\Debug\ThreadExample.exe
+C:\Users\Hell\source\repos\ThreadExample\ThreadExample\obj\Debug\ThreadExample.pdb
